@@ -1,2 +1,5 @@
 # PSTU_ISIT_BP
-Laboratory work on the discipline of the basis of Python
+
+**Laboratory work on the discipline of the basis of Python**
+##
+**ВАРИАНТ 10**
